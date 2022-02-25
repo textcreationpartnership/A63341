@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the proceedings on the crown--side at this Lent assize, held for the county of Surrey in the burrough of Southwark, before Sir Job Charleton, Knight, one of the judges of assize, and other his Majesty's justices, &amp;c. Beginning on Thursday the 13th of March, 1683. and ending on Saturday the 15th of the said month. With the number that received sentence of death, were burnt in the hand, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63341</idno>
+            <idno type="STC">Wing T2395</idno>
+            <idno type="STC">ESTC R213379</idno>
+            <idno type="EEBO-CITATION">99825774</idno>
+            <idno type="PROQUEST">99825774</idno>
+            <idno type="VID">30161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2220:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the proceedings on the crown--side at this Lent assize, held for the county of Surrey in the burrough of Southwark, before Sir Job Charleton, Knight, one of the judges of assize, and other his Majesty's justices, &amp;c. Beginning on Thursday the 13th of March, 1683. and ending on Saturday the 15th of the said month. With the number that received sentence of death, were burnt in the hand, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by George Croom at the Blew-Ball in Thames-street, over against Baynard's Castle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The year in the title is given according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:30161:1"/>
+            <head>A TRUE ACCOUNT OF THE PROCEEDINGS ON THE Crown-Side AT THIS LENT ASSIZE, Held for the County of <hi>Surrey</hi> in the <hi>Burrough</hi> of <hi>South<g ref="char:EOLhyphen"/>wark,</hi> before Sir <hi>Job Charleton,</hi> Knight, one of the Judg<g ref="char:EOLhyphen"/>es of <hi>Aſſize,</hi> and other his Majeſty's Juſtices, <hi>&amp;c.</hi>
+            </head>
+            <head>Beginning on <hi>Thurſday</hi> the 13th of <hi>March,</hi> 1683. and ending on <hi>Saturday</hi> the 15th of the ſaid Month. With the Number that received Sentence of Death, were Burnt in the Hand, <hi>&amp;c.</hi>
+            </head>
+            <p>ON <hi>Thurſday</hi> the 13th. of <hi>March,</hi> 1683. the Honourable, Sir <hi>Thomas Jones,</hi> Lord Chief Juſtice of his Majeſty's Court of <hi>Common Pleas,</hi> and Sir <hi>Job Charleton,</hi> Knight, the two Judges of Aſſize appointed for the Home-Cir<g ref="char:EOLhyphen"/>cuit of this <hi>Lent-Aſſize,</hi> having ended at <hi>Eaſt Grinſtead</hi> in <hi>Suſſex,</hi> came from thence, met by the High Sheriff of <hi>Surrey,</hi> as cuſtomarily, but it being late in the Afternoon before they got to <hi>Southwark,</hi> they that day, for <hi>Surrey</hi> only, met, heard a Sermon, and read the Commiſſion, <hi>&amp;c.</hi>
+            </p>
+            <p>On <hi>Friday,</hi> the 14th. day, the Grand Inqueſt, and other Juries being called over, and ſworn, the Court proceeded to try the Priſoners as followeth.</p>
+            <p>
+               <hi>Rice Evans,</hi> of <hi>Kennington</hi> in the Pariſh of <hi>Lambeth,</hi> Indicted for Killing his Wife, the ſaid <hi>Evans</hi> keeping ſeveral Cows, and his Wife trading as a Milk-Woman; but hapning to lye in Child-bed, he in a Week, or two, or before ſhe was in a con<g ref="char:EOLhyphen"/>dition to riſe, forced her to go out and ſell the Milk: alſo, upon her ſelling a Calf cheaper than he thought it worth, or ſome other very little Provocation, he ſo kick'd and abus'd her, that by reaſon of his ſaid ill Uſage, ſhe in a few days died. The Midwife who laid her particularly depoſing, that the Blows he had gi<g ref="char:EOLhyphen"/>ven her, and unſeemly forcing her to work, was the cauſe of her Death; he was therefore found Guilty.</p>
+            <p>
+               <hi>Elizabeth Tymon,</hi> of <hi>Croydon,</hi> in the County of <hi>Surrey,</hi> Indicted for the Mur<g ref="char:EOLhyphen"/>der of her Daughter-in-law; whom, living in the Houſe with her, and being a meek Woman, one of no Spirit to defend her ſelf, the ſaid old Mother-in-law uſed with great Unkindneſs, and ſome Weeks ſince, hapned in her Rage to ſtrike her ſaid Daughter-in-law with a Slick-ſtone or Smoothing-Iron upon the Head and Face, of which Blows ſhe languiſh'd, and died: She was alſo Indicted for Man-ſlaughter, upon the Coroner's Inquiſition taken on the Body: many Witneſſes were produ<g ref="char:EOLhyphen"/>ced, the Fact ſeeming to be ſtrong againſt the Priſoner. But the Jury acquitted her of the Murder, and found her guilty of Man-ſlaughter, upon the ſaid Indict<g ref="char:EOLhyphen"/>ment, and alſo they found the like upon the Inquiſition taken by the Coroner.</p>
+            <pb n="2" facs="tcp:30161:2"/>
+            <p>
+               <hi>Margaret Corbet</hi> of <hi>Wandſworth</hi> in the County of <hi>Surrey,</hi> Indicted for Murdering her Infant Baſtard-Child, was found guilty of the ſaid Murder.</p>
+            <p>
+               <hi>William Davis,</hi> Indicted for ſtealing Eight Pounds in Money on the 20th. of <hi>June</hi> laſt, from <hi>John Walcroft</hi> of the Pariſh of <hi>Lambeth,</hi> to whom he was a Ser<g ref="char:EOLhyphen"/>vant; and being intruſted with the Keys of the Houſe, at a time when his Maſter and Miſtreſs were abſent from it, he took that Opportunity to ſteal the ſaid Mo<g ref="char:EOLhyphen"/>ney, and the next day run away from his Service, (when yet they had not miſſed the Money;) of which Felony he was found Guilty.</p>
+            <p>
+               <hi>Margaret Floyd,</hi> Indicted for ſtealing Four Pounds in Moneys numbred, from <hi>William Gray</hi> of <hi>Newington Butts,</hi> on the 20th. of <hi>September</hi> laſt. The Proof a<g ref="char:EOLhyphen"/>gainſt her was, that being apprehended, ſhe confeſs'd before the Juſtice of Peace, that ſhe had forty Shillings of the ſaid Money; but at her Tryal ſhe denied it a<g ref="char:EOLhyphen"/>gain: however, was found Guilty of the ſaid Felony.</p>
+            <p>
+               <hi>John Broman</hi> Indicted for ſtealing a Mare or Gelding from <hi>Daniel White,</hi> 
+               <abbr>Eſq</abbr> living about <hi>Guildford,</hi> on the 20th. of <hi>January</hi> laſt, valued at Nine Pounds, pleaded Guilty.</p>
+            <p>But being Indicted alſo for ſtealing a Gelding on the Third of the ſame Month of <hi>January,</hi> from <hi>Edward Browning,</hi> 
+               <abbr>Eſq</abbr> price 5 <abbr>
+                  <hi>l.</hi>
+               </abbr> he pleaded Not Guilty; and putting himſelf upon his Tryal, it was proved againſt him, that he ſold the ſaid Horſe; which with ſome other concurrent Evidence, ſatisfied the Jury, that they found him guilty of that alſo.</p>
+            <p>
+               <hi>Charles Browning</hi> Indicted for Robbing <hi>William Jennings</hi> of one Shilling and ele<g ref="char:EOLhyphen"/>ven Pence in Money; the ſaid <hi>Jennings</hi> ſwore very poſitively <hi>Browning</hi> put his hand in his Pocket, and by Violence took the ſaid Money from him; but it ap<g ref="char:EOLhyphen"/>pearing that <hi>Jennings</hi> and <hi>Browning</hi> having been Meſs-mates in a Ship with a third Perſon alſo of their Ships-Company, went in to drink, and that it was the great Familiarity between them made <hi>Browning</hi> take ſo much Liberty, pretending he had no Money, and that it ſhould be drunk out betwixt them; he was therefore acquitted.</p>
+            <p>
+               <hi>Edward Matthews,</hi> a Painter, living at <hi>Epſom,</hi> was Indicted for ſpeaking Sediti<g ref="char:EOLhyphen"/>ous and Dangerous Words againſt his Sacred Majeſty; <hi>viz.</hi> Saying the King would not live ſix Months, but would either dye a natural Death, be Kill'd, or Poi<g ref="char:EOLhyphen"/>ſon'd; and, that if the Duke ſhould Reign (meaning the Illuſtrious Prince <hi>James</hi> Duke of <hi>York</hi>) he would be one of the firſt that ſhould take up Arms againſt him. Which Words, with ſeveral other Aggravations, were ſo fully proved by <hi>
+                  <g ref="char:V">Ʋ</g>rſula Morehouſe,</hi> and <hi>Katharine Drury,</hi> as that it had amounted to High-Treaſon, but that not diſcovered and proſecuted within ſix Months, the Words being ſpoken at the Houſe of the ſaid Mrs. <hi>Morehouſe</hi> in <hi>Epſom,</hi> about two Years ſince, and by h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r accidentally told to a very Loyal Citizen of <hi>London;</hi> who acquainting her that it was dangerous to conceal them, or that if ſhe would, however, he held himſelf in Duty obliged to make Diſcovery of what ſhe had told him; <hi>Matthews</hi> thereupon came to be Proſecuted, and is, however, found Guilty of Treſpaſs and Miſdemeanour, for ſpeaking the ſaid Seditious and Dangerous Words.</p>
+            <p>
+               <hi>Ralph Baldwin</hi> and <hi>Katharine Binks,</hi> were Indicted for breaking into the Dwell<g ref="char:EOLhyphen"/>ing Houſe of <hi>William Allen,</hi> in the Pariſh of St. <hi>Olives Southwark,</hi> on the 30th. of <hi>January</hi> laſt, at night, and ſtealing from thence one ſilver Tankard, one ſilver Caudle Cup, one ſilver Beaker, ſix Pounds in Money, and ſome other Things: but upon the Tryal it appeared, that <hi>Baldwin</hi> was Priſoner in <hi>Bridewel</hi> at the time of the Robbery, and that <hi>Katharine Binks</hi> brought the ſaid Plate and Money to him thither, where it was ſeized; ſhe only, therefore, was found Guilty, and <hi>Baldwin</hi> acquitted.</p>
+            <p>
+               <hi>Edward Gibbs</hi> Indicted for ſtealing 56 Pound Weight of Cheeſe from <hi>William Ledge</hi> of <hi>Newington Butts,</hi> on the 24th of <hi>December</hi> laſt, (which Cheeſe he valued at <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight Shillings,) he was found Guilty.</p>
+            <pb n="3" facs="tcp:30161:2"/>
+            <p>
+               <hi>John Whitmore</hi> Indicted for ſtealing a Gelding from one <hi>Kingbut</hi> of <hi>Brumley</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Kent:</hi> but it appearing the ſaid <hi>Whitmore</hi> was his Servant, or that he intruſted him to dreſs and look to his Horſes, he riding the ſaid Gelding out to water very late one <hi>Saturday</hi> Night, rid away towards <hi>London,</hi> and within two Hours was ſeized upon Suſpicion, by the Watch at St. <hi>George</hi>'s Church. The ſaid <hi>Whitmore</hi> pleaded, That he had no Intent to ſteal his Maſters Horſe, but had occaſion to ride to <hi>London</hi> and ſee an Uncle, reſolving to return the next day. Seeing alſo, the Poſſeſſion of the Horſes was given him, and he intruſted with them, it was not adjudged to be Felony, but he was acquitted.</p>
+            <p>
+               <hi>Elizabeth Ford,</hi> alias <hi>Jackson,</hi> Indicted for ſtealing Goods to the Value of 5 <abbr>
+                  <hi>l.</hi>
+               </abbr> was thereof found Guilty.</p>
+            <p>
+               <hi>Robert Banſfield</hi> Indicted for a Felony and Burglary, but was acquitted.</p>
+            <p>
+               <hi>John Norwood,</hi> and <hi>William Machen,</hi> Indicted for Robbery on the High-way, committed on the 28th of <hi>September</hi> laſt, about Eight at Night, upon <hi>Michael Wells,</hi> a Servant to one <hi>Rogers</hi> of <hi>Croydon,</hi> and taking from him a Tobacco-Box, a Campaign Coat, and Six-pence in Money. Alſo for another, committed upon <hi>Ann Streete,</hi> taking from her a Scarf, a Fore-head Cloath, and fifty Shillings in Money. Likewiſe <hi>John Norwood</hi> was Indicted for attempting to Raviſh the ſaid <hi>Ann Streete</hi> at the ſame time when he rob'd her: which two Perſons ſwore poſi<g ref="char:EOLhyphen"/>tively againſt <hi>Norwood,</hi> that he was one of three who robbed, and in ſuch manner uſed them. But <hi>Norwood</hi> himſelf, being a Houſe-keeper in <hi>Croydon,</hi> and by Trade an Oat-meal Man, brought many of thoſe Townſ-men to prove his good Reputa<g ref="char:EOLhyphen"/>tion; twenty or thirty of them gave an Evidence for him, ſome that they ſee him come riding home about Seven that Night, and that he went to Bed ſoon after; another, that he having been at <hi>London,</hi> and returning about that time into the Country when they pretended to be Robbed, he ſaw three Foot-Padders with long Staffs, and that one of them was like <hi>Norwood,</hi> though not the ſame; and conſequently, that in the Dark the ſaid <hi>Ann Streete</hi> might miſtake one Man for another. Her own Brother gave Evidence againſt her, That ſhe is a very Con<g ref="char:EOLhyphen"/>tentious Woman, and that ſhe had, a day or two before, denied to have any Money, he having intreated her to lend him Ten Shillings: And to the Raviſh<g ref="char:EOLhyphen"/>ment, that ſhe being an old Woman, it ſeemed very unlikely <hi>Norwood</hi> ſhould deſire to raviſh her, he himſelf being a likely Young-man. This Tryal held two or three Hours, and at length <hi>Norwood</hi> was found Guilty of the ſaid Robbery, and <hi>Machen</hi> was acquitted.</p>
+            <p>
+               <hi>Joſeph Henſhe</hi> Indicted for breaking into the Dwelling-Houſe of <hi>Edward Waker</hi> in the Night-time, about the 26th of <hi>February,</hi> and taking from thence a Box, Price 1 <abbr>
+                  <hi>d.</hi>
+               </abbr> and 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> in Money, he was found Guilty.</p>
+            <p>
+               <hi>John Martin</hi> Indicted for Stealing two Cocks, Value 2 <abbr>
+                  <hi>s.</hi>
+               </abbr> and four Hens, Value 4 <abbr>
+                  <hi>s.</hi>
+               </abbr> from one <hi>Thomas Webſter,</hi> on the 17th of <hi>January</hi> laſt.</p>
+            <p>Likewiſe the ſaid <hi>John Martin</hi> was a ſecond time Indicted for a Burglary, com<g ref="char:EOLhyphen"/>mitted on the 20th. of <hi>January</hi> about Seven at Night, in the Houſe of one <hi>Thomas Goffe:</hi> ſome of the Money was found in his Pocket; however the Jury found him guilty but to the Value of 9 <abbr>
+                  <hi>d.</hi>
+               </abbr> as to the firſt Indictment, and acquitted him of the latter.</p>
+            <p>
+               <hi>James Smart</hi> of <hi>Farneham,</hi> Glover, <hi>Thomas Currel, William Hartly,</hi> and <hi>Henry Collins,</hi> Indicted, for that they, together with one <hi>William Gibſon,</hi> not taken, kill<g ref="char:EOLhyphen"/>ed and murdered <hi>John Lemeing</hi> of <hi>Farneham.</hi> The firſt Witneſs againſt them was one <hi>Buckle,</hi> who living in the ſame Pariſh, did, on the 29th. of <hi>October</hi> laſt, late at Night (hearing his Dog bark violently) go out of his Houſe, and ſaw three Grey-Hounds, with a Spaniel Dog, which had taken and were tearing in pieces, one of his Sheep; and that going a little further, he ſaw three Men with long Staffs, whom he blaming for ſuffering their Dogs to kill his Sheep, they ſware <hi>God damn them</hi> they would kill him alſo, ſtriking him; at which he crying out Murder, the deceaſed <hi>Lemeing</hi> roſe out of his Bed, and asking what was the matter, <hi>Buck'e</hi>
+               <pb n="4" facs="tcp:30161:3"/>anſwered, the Hunters (or Sheep-ſtealers) were abroad, had kill'd one of his Sheep, and would kill him alſo; <hi>Lemeing</hi> ſaid he would come and help him, and did come immediately; that <hi>Collins</hi> cryed, Knock them down, and <hi>Smart</hi> did ac<g ref="char:EOLhyphen"/>cordingly knock <hi>Lemeing</hi> down, giving him one mortal Bruiſe upon his Head, of which Wound he the next day died: many other Circumſtances were related, which left it hard upon <hi>Collins</hi> and <hi>Smart.</hi> However, the Jury acquitted them of the Murder, found <hi>Smart</hi> and <hi>Collins</hi> guilty of Man-ſlaughter, and clear'd the other two.</p>
+            <p>
+               <hi>John Martin,</hi> alias <hi>Harvey,</hi> Indicted for ſtealing from <hi>Thomas Harvey</hi> of <hi>Debtford,</hi> three Dowlas Shirts, one Camblet Coat, and ten Shillings in Money. He being Servant in the Houſe, to <hi>Thomas Harvey,</hi> taking an Opportunity, pick'd the Lock of a Cheſt, and ſtole the ſaid things. He was found guilty of Felony, but not of breaking the Cheſt.</p>
+            <p>
+               <hi>William Davis, William Dorrington,</hi> and <hi>Joſeph Boyſe,</hi> Indicted for breaking the Houſe of <hi>Joſeph Daniel,</hi> at <hi>Battle-bridge</hi> in <hi>Southwark,</hi> on the 25th of <hi>August</hi> laſt, at Eight at Night, and ſtealing from thence two Dowlas Smocks, one Dowlas Shirt, one piece of new Cloath, one Pinner, one ſilk Handkerchief, two Pew<g ref="char:EOLhyphen"/>ter Diſhes, half a Yard of Lace, and other things; the ſaid <hi>Daniel</hi> being from home, and his Wife keeping an Apple-Stall ſome diſtance from her Houſe, had lock'd it up, and whilſt ſhe was abſent, the ſaid Robbery was committed. But the principal Witneſs who gave Information againſt them when firſt apprehended, being now gone to Sea, and none produced that could poſitively ſwear them to be the Men who committed the Burglary and Robbery, they were all acquitted.</p>
+            <p>
+               <hi>George Slate,</hi> or <hi>Slater,</hi> a Carman, Indicted, for that he, in the Pariſh of Sr. <hi>Olives Southwark,</hi> on the 26th of <hi>May</hi> laſt, did feloniouſly, wilfully, and of his Malice afore thought, <hi>&amp;c.</hi> driving a certain Cart loaden with Cheeſe, drawn by a Black Horſe, price 50 <abbr>
+                  <hi>s.</hi>
+               </abbr> beat down one <hi>Elizabeth Padbury</hi> in the Street, and drew the hinder Wheel of the ſaid Cart over the Foot of her the ſaid <hi>Elizabeth,</hi> giving her one mortal Bruiſe upon the Heel, of which ſhe languiſhed; and languiſh<g ref="char:EOLhyphen"/>ing untill the 4th day of <hi>June</hi> following, died of the ſaid mortal Bruiſe. But the Priſoner alledging he did not ſee the Young Woman, that by her own Raſhneſs ſhe got her Hurt, and that it was not poſſible for him to have done otherwiſe than he did; and none being produced that he did it wilfully, he was acquitted.</p>
+            <p>The ſaid Priſoners being Tryed, Judgment was given, as followeth.</p>
+            <list>
+               <item>
+                  <label>Eight received Sentence of Death, <hi>viz.</hi>
+                  </label> 
+                  <hi>Margaret Corbet, Rice Evans, Elizabeth Tymon, Elizabeth Ford</hi> alias <hi>Jackson, Mar<g ref="char:EOLhyphen"/>garet Floyd; John Broman, Katharine Binks,</hi> and <hi>John Norwood.</hi>
+               </item>
+               <item>
+                  <label>Seven were Burnt in the Hand, <hi>viz.</hi>
+                  </label> 
+                  <hi>William Davis, Edward Gibbs, Katharine— James Smart, Henry Collins, Joſeph Henſey,</hi> and <hi>John Martin</hi> alias <hi>Harvey,</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>John Martin</hi> to be Whipt.</label>
+               </item>
+            </list>
+            <p>After Judgment, two of the Women condemned to dye, pleaded their Bellies, and that they were quick with Child, <hi>viz. Eliz. Ford</hi> alias <hi>Jackson,</hi> and <hi>Margaret Floyd;</hi> a Jury of Women were then ſummoned, who being ſworn, and having ta<g ref="char:EOLhyphen"/>ken the ſaid two Priſoners apart to examine the matter, gave in a Verdict, That <hi>Margaret Floyd</hi> was with quick Child, but that <hi>Eliz. Ford</hi> was not.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed By <hi>George Croom,</hi> at the <hi>Blew-Ball</hi> in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynard</hi>'s <hi>Caſtle,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
